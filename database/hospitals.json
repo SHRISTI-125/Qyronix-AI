@@ -1,0 +1,620 @@
+[
+  {
+    "disease": "skin_cancer",
+    "speciality": "Dermatologist",
+    "recommended_hospitals": [
+      {
+        "hospital": "Tata Main Hospital",
+        "doctor": "Dr. Rajkiran Takhariya",
+        "city": "Jamshedpur",
+        "state": "Jharkhand",
+        "latitude": 22.8037,
+        "longitude": 86.2029
+      },
+      {
+        "hospital": "Dr Pallawi Skin & Hair Clinic",
+        "doctor": "Dr. Pallawi",
+        "city": "Jamshedpur",
+        "state": "Jharkhand",
+        "latitude": 22.8006,
+        "longitude": 86.1844
+      },
+      {
+        "hospital": "RIMS Ranchi",
+        "doctor": "Dr. A. K. Singh",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "latitude": 23.3565,
+        "longitude": 85.3349
+      },
+      {
+        "hospital": "Raj Hospital",
+        "doctor": "Dr. Ashok Kumar",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "latitude": 23.3441,
+        "longitude": 85.3096
+      },
+      {
+        "hospital": "Patliputra Medical College Hospital",
+        "doctor": "Dr. Rakesh Kumar",
+        "city": "Dhanbad",
+        "state": "Jharkhand",
+        "latitude": 23.7957,
+        "longitude": 86.4304
+      },
+      {
+        "hospital": "Central Hospital",
+        "doctor": "Dr. Vivek Anand",
+        "city": "Dhanbad",
+        "state": "Jharkhand",
+        "latitude": 23.8143,
+        "longitude": 86.4410
+      },
+      {
+        "hospital": "Bokaro General Hospital",
+        "doctor": "Dr. S. K. Sinha",
+        "city": "Bokaro",
+        "state": "Jharkhand",
+        "latitude": 23.6693,
+        "longitude": 86.1511
+      },
+      {
+        "hospital": "Medica Hospital",
+        "doctor": "Dr. Kunal Verma",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "latitude": 23.3694,
+        "longitude": 85.3250
+      },
+      {
+        "hospital": "Sadar Hospital",
+        "doctor": "Dr. Manoj Kumar",
+        "city": "Hazaribagh",
+        "state": "Jharkhand",
+        "latitude": 23.9966,
+        "longitude": 85.3691
+      },
+      {
+        "hospital": "Life Care Hospital",
+        "doctor": "Dr. Nitin Sharma",
+        "city": "Deoghar",
+        "state": "Jharkhand",
+        "latitude": 24.4829,
+        "longitude": 86.6947
+      },
+      {
+        "hospital": "MGM Medical College",
+        "doctor": "Dr. P. Chatterjee",
+        "city": "Jamshedpur",
+        "state": "Jharkhand",
+        "latitude": 22.7910,
+        "longitude": 86.1760
+      },
+      {
+        "hospital": "Pulse Hospital",
+        "doctor": "Dr. Rohit Sinha",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "latitude": 23.3500,
+        "longitude": 85.3255
+      },
+      {
+        "hospital": "City Hospital",
+        "doctor": "Dr. Rajeev Kumar",
+        "city": "Giridih",
+        "state": "Jharkhand",
+        "latitude": 24.1821,
+        "longitude": 86.2861
+      },
+      {
+        "hospital": "Apollo Clinic",
+        "doctor": "Dr. Anjali Verma",
+        "city": "Ranchi",
+        "state": "Jharkhand",
+        "latitude": 23.3731,
+        "longitude": 85.3372
+      },
+      {
+        "hospital": "Jeevan Jyoti Hospital",
+        "doctor": "Dr. Ravi Kumar",
+        "city": "Dumka",
+        "state": "Jharkhand",
+        "latitude": 24.2678,
+        "longitude": 87.2486
+      },
+      {
+        "hospital": "Healing Touch Hospital",
+        "doctor": "Dr. Arvind Singh",
+        "city": "Chaibasa",
+        "state": "Jharkhand",
+        "latitude": 22.5500,
+        "longitude": 85.8000
+      },
+      {
+        "hospital": "Arogya Hospital",
+        "doctor": "Dr. Pankaj Verma",
+        "city": "Ramgarh",
+        "state": "Jharkhand",
+        "latitude": 23.6300,
+        "longitude": 85.5200
+      },
+      {
+        "hospital": "Sai Hospital",
+        "doctor": "Dr. Deepak Kumar",
+        "city": "Koderma",
+        "state": "Jharkhand",
+        "latitude": 24.4700,
+        "longitude": 85.5900
+      },
+      {
+        "hospital": "Lifeline Hospital",
+        "doctor": "Dr. Anita Singh",
+        "city": "Palamu",
+        "state": "Jharkhand",
+        "latitude": 24.0396,
+        "longitude": 84.0736
+      },
+      {
+        "hospital": "Shivam Hospital",
+        "doctor": "Dr. Harsh Vardhan",
+        "city": "Godda",
+        "state": "Jharkhand",
+        "latitude": 24.8255,
+        "longitude": 87.2169
+      },
+      {
+        "hospital": "Hope Hospital",
+        "doctor": "Dr. Sanjay Prasad",
+        "city": "Latehar",
+        "state": "Jharkhand",
+        "latitude": 23.7440,
+        "longitude": 84.5043
+      },
+      {
+        "hospital": "Care Hospital",
+        "doctor": "Dr. Vivek Sinha",
+        "city": "Lohardaga",
+        "state": "Jharkhand",
+        "latitude": 23.4333,
+        "longitude": 84.6833
+      },
+      {
+        "hospital": "Niramaya Hospital",
+        "doctor": "Dr. Shweta Kumari",
+        "city": "Simdega",
+        "state": "Jharkhand",
+        "latitude": 22.6152,
+        "longitude": 84.5020
+      },
+      {
+        "hospital": "Janseva Hospital",
+        "doctor": "Dr. Rahul Anand",
+        "city": "Pakur",
+        "state": "Jharkhand",
+        "latitude": 24.6393,
+        "longitude": 87.8425
+      },
+      {
+        "hospital": "Seva Sadan Hospital",
+        "doctor": "Dr. N. Prakash",
+        "city": "Sahibganj",
+        "state": "Jharkhand",
+        "latitude": 25.2500,
+        "longitude": 87.6500
+      }
+    ]
+  },
+  {
+  "disease": "retinopathy",
+  "speciality": "Ophthalmologist",
+  "recommended_hospitals": [
+    {
+      "hospital": "ASG Eye Hospital",
+      "doctor": "Retina Specialist Team",
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "latitude": 22.8048,
+      "longitude": 86.2022
+    },
+    {
+      "hospital": "Tata Eye Hospital",
+      "doctor": "Dr. S. Banerjee",
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "latitude": 22.8029,
+      "longitude": 86.2038
+    },
+    {
+      "hospital": "Kashyap Memorial Eye Hospital",
+      "doctor": "Dr. Vinod Kumar",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "latitude": 23.3700,
+      "longitude": 85.3250
+    },
+    {
+      "hospital": "RIMS Ranchi",
+      "doctor": "Dr. A. K. Jha",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "latitude": 23.3565,
+      "longitude": 85.3349
+    },
+    {
+      "hospital": "Medica Hospital",
+      "doctor": "Dr. Ritu Sharma",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "latitude": 23.3694,
+      "longitude": 85.3250
+    },
+    {
+      "hospital": "Patliputra Medical College Hospital",
+      "doctor": "Dr. P. N. Singh",
+      "city": "Dhanbad",
+      "state": "Jharkhand",
+      "latitude": 23.7957,
+      "longitude": 86.4304
+    },
+    {
+      "hospital": "Shanti Eye Clinic",
+      "doctor": "Dr. Amit Verma",
+      "city": "Dhanbad",
+      "state": "Jharkhand",
+      "latitude": 23.8015,
+      "longitude": 86.4412
+    },
+    {
+      "hospital": "Bokaro Eye Care Centre",
+      "doctor": "Dr. Rajeev Sinha",
+      "city": "Bokaro",
+      "state": "Jharkhand",
+      "latitude": 23.6698,
+      "longitude": 86.1480
+    },
+    {
+      "hospital": "Bokaro General Hospital",
+      "doctor": "Dr. Neha Kapoor",
+      "city": "Bokaro",
+      "state": "Jharkhand",
+      "latitude": 23.6693,
+      "longitude": 86.1511
+    },
+    {
+      "hospital": "Sadar Hospital",
+      "doctor": "Dr. Vivek Anand",
+      "city": "Hazaribagh",
+      "state": "Jharkhand",
+      "latitude": 23.9966,
+      "longitude": 85.3691
+    },
+    {
+      "hospital": "Life Care Hospital",
+      "doctor": "Dr. Rohit Kumar",
+      "city": "Deoghar",
+      "state": "Jharkhand",
+      "latitude": 24.4829,
+      "longitude": 86.6947
+    },
+    {
+      "hospital": "MGM Medical College",
+      "doctor": "Dr. S. Chatterjee",
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "latitude": 22.7910,
+      "longitude": 86.1760
+    },
+    {
+      "hospital": "Pulse Hospital",
+      "doctor": "Dr. Arvind Singh",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "latitude": 23.3500,
+      "longitude": 85.3255
+    },
+    {
+      "hospital": "Apollo Clinic",
+      "doctor": "Dr. Meena Verma",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "latitude": 23.3731,
+      "longitude": 85.3372
+    },
+    {
+      "hospital": "City Hospital",
+      "doctor": "Dr. Pankaj Kumar",
+      "city": "Giridih",
+      "state": "Jharkhand",
+      "latitude": 24.1821,
+      "longitude": 86.2861
+    },
+    {
+      "hospital": "Healing Touch Hospital",
+      "doctor": "Dr. Nitin Sharma",
+      "city": "Chaibasa",
+      "state": "Jharkhand",
+      "latitude": 22.5500,
+      "longitude": 85.8000
+    },
+    {
+      "hospital": "Arogya Hospital",
+      "doctor": "Dr. Deepak Prasad",
+      "city": "Ramgarh",
+      "state": "Jharkhand",
+      "latitude": 23.6300,
+      "longitude": 85.5200
+    },
+    {
+      "hospital": "Sai Hospital",
+      "doctor": "Dr. Anita Sinha",
+      "city": "Koderma",
+      "state": "Jharkhand",
+      "latitude": 24.4700,
+      "longitude": 85.5900
+    },
+    {
+      "hospital": "Lifeline Hospital",
+      "doctor": "Dr. Ravi Shankar",
+      "city": "Palamu",
+      "state": "Jharkhand",
+      "latitude": 24.0396,
+      "longitude": 84.0736
+    },
+    {
+      "hospital": "Shivam Hospital",
+      "doctor": "Dr. Harish Kumar",
+      "city": "Godda",
+      "state": "Jharkhand",
+      "latitude": 24.8255,
+      "longitude": 87.2169
+    },
+    {
+      "hospital": "Hope Hospital",
+      "doctor": "Dr. Sanjay Kumar",
+      "city": "Latehar",
+      "state": "Jharkhand",
+      "latitude": 23.7440,
+      "longitude": 84.5043
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor": "Dr. Sweta Mishra",
+      "city": "Lohardaga",
+      "state": "Jharkhand",
+      "latitude": 23.4333,
+      "longitude": 84.6833
+    },
+    {
+      "hospital": "Niramaya Hospital",
+      "doctor": "Dr. Ajit Kumar",
+      "city": "Simdega",
+      "state": "Jharkhand",
+      "latitude": 22.6152,
+      "longitude": 84.5020
+    },
+    {
+      "hospital": "Janseva Hospital",
+      "doctor": "Dr. Rahul Verma",
+      "city": "Pakur",
+      "state": "Jharkhand",
+      "latitude": 24.6393,
+      "longitude": 87.8425
+    },
+    {
+      "hospital": "Seva Sadan Hospital",
+      "doctor": "Dr. N. Prakash",
+      "city": "Sahibganj",
+      "state": "Jharkhand",
+      "latitude": 25.2500,
+      "longitude": 87.6500
+    }
+  ]
+},
+{
+  "disease": "brain_tumor",
+  "speciality": "Neurologist / Neurosurgeon",
+  "recommended_hospitals": [
+    {
+      "hospital": "Tata Main Hospital",
+      "doctor": "Dr. Niraj Kumar Choudhary",
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "latitude": 22.8037,
+      "longitude": 86.2029
+    },
+    {
+      "hospital": "Dr Maharshi Neuro and Spine Clinic",
+      "doctor": "Dr. Rajiv Maharshi",
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "latitude": 22.8141,
+      "longitude": 86.1915
+    },
+    {
+      "hospital": "MGM Medical College",
+      "doctor": "Dr. S. Chatterjee",
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
+      "latitude": 22.7910,
+      "longitude": 86.1760
+    },
+    {
+      "hospital": "RIMS Ranchi",
+      "doctor": "Dr. A. K. Jha",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "latitude": 23.3565,
+      "longitude": 85.3349
+    },
+    {
+      "hospital": "Medica Hospital",
+      "doctor": "Dr. Vivek Anand",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "latitude": 23.3694,
+      "longitude": 85.3250
+    },
+    {
+      "hospital": "Raj Hospital",
+      "doctor": "Dr. Pankaj Verma",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "latitude": 23.3441,
+      "longitude": 85.3096
+    },
+    {
+      "hospital": "Pulse Hospital",
+      "doctor": "Dr. Rohit Kumar",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "latitude": 23.3500,
+      "longitude": 85.3255
+    },
+    {
+      "hospital": "Patliputra Medical College Hospital",
+      "doctor": "Dr. Rakesh Kumar",
+      "city": "Dhanbad",
+      "state": "Jharkhand",
+      "latitude": 23.7957,
+      "longitude": 86.4304
+    },
+    {
+      "hospital": "Central Hospital",
+      "doctor": "Dr. Vivek Sinha",
+      "city": "Dhanbad",
+      "state": "Jharkhand",
+      "latitude": 23.8143,
+      "longitude": 86.4410
+    },
+    {
+      "hospital": "Bokaro General Hospital",
+      "doctor": "Dr. Neeraj Sinha",
+      "city": "Bokaro",
+      "state": "Jharkhand",
+      "latitude": 23.6693,
+      "longitude": 86.1511
+    },
+    {
+      "hospital": "Bokaro Neuro Centre",
+      "doctor": "Dr. Ajit Kumar",
+      "city": "Bokaro",
+      "state": "Jharkhand",
+      "latitude": 23.6645,
+      "longitude": 86.1470
+    },
+    {
+      "hospital": "Sadar Hospital",
+      "doctor": "Dr. Manoj Kumar",
+      "city": "Hazaribagh",
+      "state": "Jharkhand",
+      "latitude": 23.9966,
+      "longitude": 85.3691
+    },
+    {
+      "hospital": "Life Care Hospital",
+      "doctor": "Dr. Deepak Sharma",
+      "city": "Deoghar",
+      "state": "Jharkhand",
+      "latitude": 24.4829,
+      "longitude": 86.6947
+    },
+    {
+      "hospital": "Healing Touch Hospital",
+      "doctor": "Dr. Arvind Singh",
+      "city": "Chaibasa",
+      "state": "Jharkhand",
+      "latitude": 22.5500,
+      "longitude": 85.8000
+    },
+    {
+      "hospital": "Arogya Hospital",
+      "doctor": "Dr. Kunal Verma",
+      "city": "Ramgarh",
+      "state": "Jharkhand",
+      "latitude": 23.6300,
+      "longitude": 85.5200
+    },
+    {
+      "hospital": "Sai Hospital",
+      "doctor": "Dr. Anita Sinha",
+      "city": "Koderma",
+      "state": "Jharkhand",
+      "latitude": 24.4700,
+      "longitude": 85.5900
+    },
+    {
+      "hospital": "Lifeline Hospital",
+      "doctor": "Dr. Ravi Shankar",
+      "city": "Palamu",
+      "state": "Jharkhand",
+      "latitude": 24.0396,
+      "longitude": 84.0736
+    },
+    {
+      "hospital": "Shivam Hospital",
+      "doctor": "Dr. Harish Kumar",
+      "city": "Godda",
+      "state": "Jharkhand",
+      "latitude": 24.8255,
+      "longitude": 87.2169
+    },
+    {
+      "hospital": "Hope Hospital",
+      "doctor": "Dr. Sanjay Prasad",
+      "city": "Latehar",
+      "state": "Jharkhand",
+      "latitude": 23.7440,
+      "longitude": 84.5043
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor": "Dr. Sweta Mishra",
+      "city": "Lohardaga",
+      "state": "Jharkhand",
+      "latitude": 23.4333,
+      "longitude": 84.6833
+    },
+    {
+      "hospital": "Niramaya Hospital",
+      "doctor": "Dr. Rahul Anand",
+      "city": "Simdega",
+      "state": "Jharkhand",
+      "latitude": 22.6152,
+      "longitude": 84.5020
+    },
+    {
+      "hospital": "Janseva Hospital",
+      "doctor": "Dr. Pankaj Sinha",
+      "city": "Pakur",
+      "state": "Jharkhand",
+      "latitude": 24.6393,
+      "longitude": 87.8425
+    },
+    {
+      "hospital": "Seva Sadan Hospital",
+      "doctor": "Dr. N. Prakash",
+      "city": "Sahibganj",
+      "state": "Jharkhand",
+      "latitude": 25.2500,
+      "longitude": 87.6500
+    },
+    {
+      "hospital": "City Hospital",
+      "doctor": "Dr. Rajeev Kumar",
+      "city": "Giridih",
+      "state": "Jharkhand",
+      "latitude": 24.1821,
+      "longitude": 86.2861
+    },
+    {
+      "hospital": "Apollo Clinic",
+      "doctor": "Dr. Meena Verma",
+      "city": "Ranchi",
+      "state": "Jharkhand",
+      "latitude": 23.3731,
+      "longitude": 85.3372
+    }
+  ]
+}
+]

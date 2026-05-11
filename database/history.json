@@ -1,0 +1,39 @@
+[
+    {
+        "user": "Veer Kumar Singh",
+        "date": "2026-05-09 22:24:41.083860",
+        "disease": "skin_cancer",
+        "prediction": "benign",
+        "confidence": 99.17
+    },
+    {
+        "user": "Veer Kumar Singh",
+        "date": "2026-05-09 22:28:58.342188",
+        "disease": "skin_cancer",
+        "prediction": "benign",
+        "confidence": 99.17
+    },
+    {
+        "user": "Veer Kumar Singh",
+        "date": "2026-05-09 22:30:17.750360",
+        "disease": "retinopathy",
+        "prediction": "moderate",
+        "confidence": 93.2
+    },
+    {
+        "user": "Veer Kumar Singh",
+        "date": "2026-05-09 22:32:25.618258",
+        "disease": "retinopathy",
+        "prediction": "moderate",
+        "confidence": 100.0
+    },
+    {
+        "label": "mild",
+        "conf": 96.8,
+        "img": "static\\0a61bddab956.png",
+        "name": "Veer Kumar Singh",
+        "age": "45",
+        "disease": "retinopathy",
+        "date": "2026-05-10 12:39:01.541575"
+    }
+]

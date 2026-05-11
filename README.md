@@ -12,7 +12,7 @@ To improve transparency and trust in AI predictions, the platform integrates Exp
 
 ## 🧬 Multi-Disease Detection
 
-Qyronix AI supports detection of multiple diseases using separate deep learning models.
+Qyronix AI supports detection of multiple diseases using deep learning models.
 
 | Disease | Detection Type |
 |---|---|
@@ -318,7 +318,6 @@ Always consult certified healthcare professionals before making healthcare decis
 # ⭐ Support
 
 If you liked this project:
-
 - ⭐ Star the repository
 - 🍴 Fork the project
 - 🚀 Contribute improvements
@@ -329,4 +328,4 @@ If you liked this project:
 
 Thank you for exploring Qyronix AI.
 
-> Building intelligent healthcare systems for a smarter and safer future.
+> Building intelligent healthcare systems for a smarter future.

@@ -1,6 +1,6 @@
-# 🧠 Qyronix AI
+# 🩺 Qyronix AI
 
-## 🚀 Federated Learning Based Multi-Disease Detection System
+## 📌 Federated Learning Based Multi-Disease Detection System
 
 > The platform aims to bridge the gap between artificial intelligence and modern healthcare by creating a system that is not only accurate and intelligent, but also privacy-aware and user-friendly.
 Qyronix AI allows users to upload medical images such as MRI scans, retina images, and skin lesion images for disease analysis. The system processes these images using deep learning models trained on medical datasets and predicts possible diseases with confidence scores.
@@ -10,7 +10,7 @@ To improve transparency and trust in AI predictions, the platform integrates Exp
 
 # ✨ Features
 
-## 🩺 Multi-Disease Detection
+## 🧬 Multi-Disease Detection
 
 Qyronix AI supports detection of multiple diseases using separate deep learning models.
 
@@ -40,8 +40,7 @@ The platform uses Grad-CAM visualization to highlight important regions responsi
 The system automatically generates professional PDF reports containing:
 
 - 👤 Patient Information
-- 🧠 Disease Prediction
-- 📊 Confidence Score
+- 🔬 Disease Prediction
 - 🖼 Uploaded Medical Image
 - 🔥 Grad-CAM Heatmap
 - ⏰ Timestamp
@@ -86,7 +85,7 @@ Instead of sharing raw patient data:
 
 ---
 
-# 🧠 Deep Learning Workflow
+# ✦ Deep Learning Workflow
 
 ```text
 Medical Image Upload
@@ -111,7 +110,7 @@ AI PDF Report Generation
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Qyronix-AI.git
+git clone https://github.com/SHRISTI-125/Qyronix
 ```
 
 ---
@@ -119,7 +118,7 @@ git clone https://github.com/your-username/Qyronix-AI.git
 ## 2️⃣ Move Into Project Directory
 
 ```bash
-cd Qyronix-AI
+cd Qyronix
 ```
 
 ---
@@ -168,6 +167,7 @@ Qyronix-AI/
 ├── static/
 │
 ├── templates/
+│   ├── index.html
 │
 └── README.md
 ```
@@ -179,16 +179,9 @@ Qyronix-AI/
 The project uses:
 
 - Accuracy Score
-- Precision
-- Recall
 - F1-Score
 - Confusion Matrix
 
-```python
-from sklearn.metrics import accuracy_score
-
-acc = accuracy_score(y_true, y_pred)
-```
 
 ---
 
@@ -205,14 +198,6 @@ acc = accuracy_score(y_true, y_pred)
 # 🎨 User Interface
 
 Qyronix AI follows a futuristic healthcare UI theme.
-
-### 🎯 Design Goals
-
-- Modern medical aesthetics
-- Dark futuristic dashboard
-- Human-AI connectivity feeling
-- Professional hospital-style visuals
-- Interactive healthcare experience
 
 ---
 
@@ -284,19 +269,35 @@ The project demonstrates how AI can assist healthcare professionals while mainta
 
 # 📸 Screenshots
 
-<p align="center">
 
-<img src="images/img1.png" width="45%">
-<img src="images/img2.png" width="45%">
 
-</p>
+<table align="center">
 
-<p align="center">
+<tr>
 
-<img src="images/img3.png" width="45%">
-<img src="images/img4.png" width="45%">
+<td>
+<img src="images/img1.png" width="400" height="250">
+</td>
 
-</p>
+<td>
+<img src="images/img2.png" width="400" height="250">
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<img src="images/img3.png" width="400" height="250">
+</td>
+
+<td>
+<img src="images/img4.png" width="400" height="250">
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -324,7 +325,7 @@ If you liked this project:
 
 ---
 
-# ❤️ Thank You
+# 📢 Thank You
 
 Thank you for exploring Qyronix AI.
 

@@ -110,7 +110,7 @@ AI PDF Report Generation
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/SHRISTI-125/Qyronix
+git clone https://github.com/SHRISTI-125/Qyronix-AI
 ```
 
 ---
@@ -118,7 +118,7 @@ git clone https://github.com/SHRISTI-125/Qyronix
 ## 2️⃣ Move Into Project Directory
 
 ```bash
-cd Qyronix
+cd Qyronix-AI
 ```
 
 ---

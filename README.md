@@ -22,11 +22,11 @@ Qyronix AI supports detection of multiple diseases using deep learning models.
 
 ---
 
-## 🔥 Explainable AI (Grad-CAM)
+## 📍 Explainable AI (Grad-CAM)
 
 The platform uses Grad-CAM visualization to highlight important regions responsible for AI predictions.
 
-### ✅ Benefits
+###  Benefits
 
 - Improves transparency
 - Makes AI trustworthy
@@ -39,12 +39,12 @@ The platform uses Grad-CAM visualization to highlight important regions responsi
 
 The system automatically generates professional PDF reports containing:
 
-- 👤 Patient Information
-- 🔬 Disease Prediction
-- 🖼 Uploaded Medical Image
-- 🔥 Grad-CAM Heatmap
-- ⏰ Timestamp
-- ⚠ Medical Disclaimer
+-  Patient Information
+-  Disease Prediction
+-  Uploaded Medical Image
+-  Grad-CAM Heatmap
+-  Timestamp
+-  Medical Disclaimer
 
 ---
 
@@ -52,9 +52,9 @@ The system automatically generates professional PDF reports containing:
 
 The platform recommends nearby hospitals based on:
 
-- 📍 User Location
-- 🩺 Disease Type
-- 📏 Distance
+-  User Location
+-  Disease Type
+-  Distance
 
 ---
 
@@ -218,12 +218,12 @@ Qyronix AI prioritizes patient privacy using Federated Learning concepts.
 
 Future scope of the project includes:
 
-- ☁️ Cloud Deployment
-- 📱 Mobile Application
-- 🤖 AI Medical Chatbot
-- 🩺 Live Doctor Consultation
-- 🌍 Multi-language Support
-- 📊 Advanced Analytics Dashboard
+-  Cloud Deployment
+-  Mobile Application
+-  AI Medical Chatbot
+-  Live Doctor Consultation
+-  Multi-language Support
+-  Advanced Analytics Dashboard
 
 ---
 
@@ -257,11 +257,11 @@ This project helped in understanding:
 
 Qyronix AI explores the intersection of:
 
-- 🏥 Healthcare
-- 🧠 Artificial Intelligence
-- 🔒 Federated Learning
-- 👁 Explainable AI
-- 💻 Computer Vision
+-  Healthcare
+-  Artificial Intelligence
+-  Federated Learning
+-  Explainable AI
+-  Computer Vision
 
 The project demonstrates how AI can assist healthcare professionals while maintaining patient privacy.
 

@@ -301,6 +301,11 @@ The project demonstrates how AI can assist healthcare professionals while mainta
 
 ---
 
+# 🎬 Live Demo
+[Qyronix AI](https://huggingface.co/spaces/shristi222/Qyronix-AI)
+
+---
+
 # 👩‍💻 Developer
 
 ## Shristi Kumari

@@ -22,7 +22,7 @@ Qyronix AI supports detection of multiple diseases using deep learning models.
 
 ---
 
-## 📍 Explainable AI (Grad-CAM)
+## 📍 Explainable AI 
 
 The platform uses Grad-CAM visualization to highlight important regions responsible for AI predictions.
 

@@ -613,7 +613,7 @@
             <p class="sec-desc">These doctors near <strong>{{ hospitals[0].city if hospitals[0].city else 'your location' }}</strong> are ready to continue your care journey.</p>
             <div class="hospitals-grid">
                 {% for hospital in hospitals %}
-                <div class="hospital-card glass"><h3><i class="fa-solid fa-hospital"></i> {{ hospital.hospital }}</h3><div class="hospital-detail"><i class="fa-solid fa-user-doctor doctor-icon"></i><span>Dr. {{ hospital.doctor }}</span></div><div class="hospital-detail"><i class="fa-solid fa-location-dot"></i><span>{{ hospital.city }}, {{ hospital.state }}</span></div><div class="hospital-reach"><i class="fa-solid fa-heart"></i> Reach Out for Care</div></div>
+                <div class="hospital-card glass"><h3><i class="fa-solid fa-hospital"></i> {{ hospital.hospital }}</h3><div class="hospital-detail"><i class="fa-solid fa-user-doctor doctor-icon"></i><span> {{ hospital.doctor }}</span></div><div class="hospital-detail"><i class="fa-solid fa-location-dot"></i><span>{{ hospital.city }}, {{ hospital.state }}</span></div><div class="hospital-reach"><i class="fa-solid fa-heart"></i> Reach Out for Care</div></div>
                 {% endfor %}
             </div>
         </section>
